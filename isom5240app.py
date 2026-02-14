@@ -3,7 +3,6 @@ import streamlit as st
 st.write("ISOM5240")
 st.write("deeplearning")
 
-import streamlit as st
 from transformers import pipeline
 
 # Load the text classification model pipeline
