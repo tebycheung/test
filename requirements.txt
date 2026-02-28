@@ -1,7 +1,3 @@
-transformers
-torch
-streamlit
-
 import streamlist as st
 
 st.write("5240")
